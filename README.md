@@ -1,8 +1,20 @@
-# Tweeter_clone_FS
-This is a full-stack Twitter clone built using Django (backend) and Bootstrap (frontend). It features user authentication, tweet creation with optional image uploads, and CRUD operations for tweets. Features User Authentication (Sign Up, Login) Tweet Creation with Text and Photo Edit, Delete, and View Tweets Simple and intuitive UI
+The Twitter Clone is a simple full-stack web application built using Django (backend) and Bootstrap (frontend). It allows users to create and manage tweets, including uploading images with each tweet. The app supports user authentication, and provides a user-friendly interface for creating, editing, and deleting tweets.
 
-Tech Stack Backend: Django Frontend: HTML, CSS (Bootstrap) Database: SQLite (Django default)
+Steps to Run the Project:
 
-Install the required dependencies: pip install -r requirements.txt Apply migrations: python manage.py migrate Create a superuser (admin user): python manage.py createsuperuser Run the development server: python manage.py runserver
+1.Install Dependencies: Install required libraries using:
 
-Open your browser and navigate to http://127.0.0.1:8000/
+        pip install -r requirements.txt
+
+2.Apply Migrations: Set up the database by applying migrations:
+
+        python manage.py migrate
+3.Create a Superuser: Create an admin user to manage the application:
+
+        python manage.py createsuperuser
+4.Run the App: Launch the Django development server with:
+
+        python manage.py runserver
+View the App: Open your browser and go to:
+
+      http://127.0.0.1:8000/
