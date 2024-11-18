@@ -2,7 +2,7 @@ The Twitter Clone is a simple full-stack web application built using Django (bac
 
 Steps to Run the Project:
 
-1.Install Dependencies: Install required libraries using:
+1.Install Dependencies: Run this Command to install all required liberaries:
 
         pip install -r requirements.txt
 
