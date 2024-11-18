@@ -17,4 +17,4 @@ Steps to Run the Project:
         python manage.py runserver
 View the App: Open your browser and go to:
 
-      http://127.0.0.1:8000/
+        http://127.0.0.1:8000/
