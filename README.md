@@ -1,6 +1,6 @@
 The Twitter Clone is a simple full-stack web application built using Django (backend) and Bootstrap, Html, CSS (frontend). It allows users to create and manage tweets, including uploading images with each tweet. The app supports user authentication, and provides a user-friendly interface for creating, editing, & deleting tweets.
 
-Steps to Run the Project:
+Steps to Run this Project:
 
 1.Install Dependencies: Run this Command to install all required liberaries:
 
